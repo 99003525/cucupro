@@ -1,0 +1,21 @@
+{
+  "name": "cucumbertest",
+  "version": "1.0.0",
+  "description": "testing cucumber automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "athar",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "protractor": "^5.4.4",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/cucumber": "^7.0.0",
+    "cucumber": "^6.0.5",
+    "protractor-cucumber-framework": "^6.2.1"
+  }
+}
